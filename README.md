@@ -1,2 +1,2 @@
 # HoBo
-hobo repo
+HoBo repo
